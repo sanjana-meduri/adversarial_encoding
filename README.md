@@ -1,2 +1,2 @@
 # adversarial_encoding
-Using adversarial examples to encode and decode text.
+This repository contains code that uses adversarial examples to encode and decode text.
